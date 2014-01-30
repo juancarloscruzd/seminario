@@ -363,3 +363,36 @@ ul.social a {text-indent:-9000px; text-decoration:none; height:24px; width:24px;
       margin: 0 auto
     }
 
+
+.slider-title-wrapper{
+	float: left;
+	padding-left: 35px;
+}
+
+.slider-title-wrapper span{
+	display: block;
+	background: url('/images/slider-title-bg.png') no-repeat;
+	background-position: bottom;
+}
+
+.slider-title{
+	font-size: 45px;
+	color: #E31C39;
+	text-decoration: none;
+	font-style: normal;
+	font-family: Open sans;
+	font-weight: bold;
+	line-height: 100%;
+}
+
+.slider-1-content{
+	float: right;
+	font-size: 30px;
+	width: 65%;
+	line-height: 115%;
+}
+
+.silder-subtitle{
+	font-size: 25px;
+	color: #E31C39;
+}
